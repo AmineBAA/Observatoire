@@ -32,7 +32,7 @@ def compare_tariffs(pdf1_file, pdf2_file):
     return changes
 
 # Streamlit app
-st.title("Bank Tariff Comparison")
+st.title("Observatoire tarifaire")
 
 # File upload section
 st.write("Upload two PDF files (from different dates) to compare tariffs:")
